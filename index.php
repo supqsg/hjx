@@ -11,7 +11,7 @@
 // error_reporting ( E_ALL );
 // set_time_limit ( 0 );
 
-define ( 'APP_DEBUG', false );   //定义debug的开启
+define ( 'APP_DEBUG', false );   //定义debug的开启aa
 define ( 'SHOW_ERROR', true );   //显示错误信息
 
 date_default_timezone_set ( 'PRC' );//定义时区
